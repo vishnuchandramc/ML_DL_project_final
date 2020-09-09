@@ -1,2 +1,2 @@
-# B_tech_final_year_project
+# Final year ML/DL project
 Machine learning and Deep learning final year project

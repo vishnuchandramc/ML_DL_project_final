@@ -1,5 +1,5 @@
 # Final year ML/DL Project
-Btech final year project based on Machine Learning and Deep Learning
+B tech final year project based on Machine Learning and Deep Learning
 ------------------------------------------------------------------------------------------------
 # GDP of India Forecasting using Machine Learning and Deep Learning
 * Gross domestic product (GDP) is the single standard indicator used across the globe to indicate
@@ -13,7 +13,7 @@ increase in GDP of India, then it implies that the economy of India is growing a
 But often, in these statistics the inflation rate is not included. In India, the GDP is calculated in
 every three months and the figures of GDP depend on production rate of major economic
 sectors.
-We pursue a new approach to forecasting by employing a number of machine learning
+* We pursue a new approach to forecasting by employing a number of machine learning
 algorithms, a method that is data driven, and imposing limited restrictions on the nature of the
 true relationship between input and output variables. We apply the available Machine learning 
 algorithms on raw data of advanced and emerging economies of India and find the best of

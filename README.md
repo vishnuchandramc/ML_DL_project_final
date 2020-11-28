@@ -1,11 +1,13 @@
 # Final year ML/DL project
 Btech final year project based on Machine Learning and Deep Learning
-Gross domestic product (GDP) is the single standard indicator used across the globe to indicate
+
+# GDP of India Forecasting using Machine Learning and Deep Learning
+* Gross domestic product (GDP) is the single standard indicator used across the globe to indicate
 the health of a nation's economy: one single number that represents the monetary value of all
 the finished goods and services produced within a country's borders in a specific period. GDP
 may be easy to define but it is complex to calculate, and different countries employ different
 methods.
-In India, the rate of GDP is fixed on the basis of average enhancement or decline in the
+* In India, the rate of GDP is fixed on the basis of average enhancement or decline in the
 production in agriculture, manufacturing and service sector. If we say that there is a 2%
 increase in GDP of India, then it implies that the economy of India is growing at the rate of 2%.
 But often, in these statistics the inflation rate is not included. In India, the GDP is calculated in

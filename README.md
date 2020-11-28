@@ -1,4 +1,4 @@
-# Final year ML/DL Project
+# Main Project
 B-TECH final year project based on Machine Learning and Deep Learning
 ------------------------------------------------------------------------------------------------
 # GDP of India Forecasting using Machine Learning and Deep Learning
